@@ -1,5 +1,5 @@
 {
-  "homepage": "http://ilad08.github.io/b3bola-chat-app",
+  "homepage": "http://ilad08.github.io/b3bola-chat",
   "name": "b3bolachat",
   "version": "1.0.0",
   "description": "Realtime chat app with rooms",
@@ -7,8 +7,8 @@
   "scripts": {
     "start": "node server",
     "dev": "nodemon server",
-    "predeploy": "nodemon server",
-    "deploy": "gh-pages -d build"
+    "predeploy": "node server",
+    "deploy": "gh-pages -d start"
   },
   "author": "Brad Traversy",
   "license": "MIT",
