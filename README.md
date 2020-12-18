@@ -1,4 +1,4 @@
-# B3bolaChat
+# b3bola-chat
 
-[Visit](https://glitch.com/edit/#!/b3bolachat1?path=public%2Fchat.html%3A163%3A0)
+[Visit](https://b3bola-chat.glitch.me/)
 
